@@ -1,10 +1,10 @@
 # Hola, soy Emerson Sontay 👋
 
-**Desarrollador Junior · Backend y Soporte de TI**
+**Desarrollador Junior · Backend**
 
 📍 Chimaltenango, Guatemala
 
-Desarrollo sistemas internos y doy soporte de TI. Me gusta entender el problema con las personas que lo viven, construir la solución y probarla en uso real. Mi enfoque es el **backend**: estoy profundizando en Node.js, Express, SQL y APIs REST. También he trabajado en frontend con React.
+Desarrollo sistemas internos. Me gusta entender el problema con las personas que lo viven, construir la solución y probarla en uso real. Mi enfoque es el **backend**: estoy profundizando en Node.js, Express, SQL y APIs REST. También he trabajado en frontend con React.
 
 En 2027 inicio Ingeniería en Sistemas en la Universidad Mariano Gálvez.
 
@@ -28,10 +28,6 @@ En 2027 inicio Ingeniería en Sistemas en la Universidad Mariano Gálvez.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-
-**Soporte de TI**
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ## 🚀 Proyectos destacados
 
