@@ -26,7 +26,7 @@
 
 ### Sistema de Tickets TIC
 
-<a href="https://tickets-tic-demo.vercel.app"><img src="assets/tickets-tic.webp" alt="Bandeja del Sistema de Tickets TIC" width="100%"></a>
+<a href="https://tickets-tic-demo.vercel.app"><img src="assets/tickets-tic-banner.webp" alt="Bandeja del Sistema de Tickets TIC" width="100%"></a>
 
 Mesa de ayuda interna de Legumex para reportar fallas técnicas y darles seguimiento, con prioridades, chat y métricas. *Colaborador, desarrollador en práctica.*
 
@@ -34,7 +34,7 @@ Mesa de ayuda interna de Legumex para reportar fallas técnicas y darles seguimi
 
 ### Sistema de Formatos TIC
 
-<a href="https://formatos-tic-demo.vercel.app"><img src="assets/formatos-tic.webp" alt="Pantalla Nueva Acta del Sistema de Formatos TIC" width="100%"></a>
+<a href="https://formatos-tic-demo.vercel.app"><img src="assets/formatos-tic-banner.webp" alt="Pantalla Nueva Acta del Sistema de Formatos TIC" width="100%"></a>
 
 Gestión de equipos y usuarios, entregas y devoluciones, estado de cada equipo, áreas y marcas, con actas en PDF. En uso en el área de TIC de Legumex. *Colaborador, desarrollador en práctica.*
 
@@ -42,7 +42,7 @@ Gestión de equipos y usuarios, entregas y devoluciones, estado de cada equipo, 
 
 ### AgroAlerta AI · Hackathon Build and Pitch 2026
 
-<a href="https://github.com/emersonrodriguez1455-lang/buildAndPitch"><img src="assets/agroalerta-ai.webp" alt="Pantalla Nuevo diagnóstico de AgroAlerta AI" width="100%"></a>
+<a href="https://github.com/emersonrodriguez1455-lang/buildAndPitch"><img src="assets/agroalerta-ai-banner.webp" alt="Pantalla Nuevo diagnóstico de AgroAlerta AI" width="100%"></a>
 
 Un modelo de IA publicado sobre enfermedades de la hoja de café, llevado a una herramienta web para productores: foto de la hoja, clasificación preliminar e inspecciones por finca y parcela. *Propuse la idea y la pulí con el equipo.*
 
@@ -50,7 +50,7 @@ Un modelo de IA publicado sobre enfermedades de la hoja de café, llevado a una 
 
 ### Library-api
 
-<a href="https://github.com/emersonrodriguez1455-lang/Library-api"><img src="assets/library-api.svg" alt="Endpoints de Library-api" width="100%"></a>
+<a href="https://github.com/emersonrodriguez1455-lang/Library-api"><img src="assets/library-api-banner.svg" alt="Endpoints de Library-api" width="100%"></a>
 
 API REST de una biblioteca con Express: listar, registrar, actualizar y eliminar libros, con validaciones y códigos de estado HTTP.
 
@@ -58,7 +58,7 @@ API REST de una biblioteca con Express: listar, registrar, actualizar y eliminar
 
 ### Portafolio
 
-<a href="https://portafolio-c8jc.vercel.app"><img src="assets/portafolio.webp" alt="Portada del portafolio de Emerson Sontay" width="100%"></a>
+<a href="https://portafolio-c8jc.vercel.app"><img src="assets/portafolio-banner.webp" alt="Portada del portafolio de Emerson Sontay" width="100%"></a>
 
 Mi portafolio personal, con el caso completo de cada proyecto: problema, solución, mi rol y tecnologías.
 
@@ -67,10 +67,7 @@ Mi portafolio personal, con el caso completo de cada proyecto: problema, soluci�
 ## Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,react,ts,tailwind,nextjs,git,github,postman,vercel&perline=7&theme=dark">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,react,ts,tailwind,nextjs,git,github,postman,vercel&perline=7&theme=light" width="420" alt="Node.js, Express, PostgreSQL, MySQL, SQLite, React, TypeScript, Tailwind CSS, Next.js, Git, GitHub, Postman y Vercel">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,react,ts,tailwind,nextjs,git,github,postman,vercel&perline=7&theme=dark" width="420" alt="Node.js, Express, PostgreSQL, MySQL, SQLite, React, TypeScript, Tailwind CSS, Next.js, Git, GitHub, Postman y Vercel">
 </p>
 
 <p align="center"><b>Backend:</b> Node.js · Express · PostgreSQL · MySQL · SQLite · APIs REST<br><b>Frontend:</b> React · TypeScript · Tailwind CSS · Next.js<br><b>Herramientas:</b> Git · GitHub · Postman · Vercel · Railway</p>
